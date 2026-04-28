@@ -20,5 +20,5 @@ This project focuses on building a computer vision pipeline for traffic object d
 - docs/ → project documentation
 
 ## Author
-Karrin Frida T. Novero
-Aleah Balagao 
+- Karrin Frida T. Novero
+- Aleah Balagao 
